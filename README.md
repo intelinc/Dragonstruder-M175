@@ -7,5 +7,7 @@
 * Additional part-stiffening to minimize oscillation/resonance during fast moves in the X axis
 * The entire extruder assembly has been shifted slightly closer to the X gantry (shortened) to decrease torsional load
 * Integrated mount for a BLTouch bed leveling sensor
+* Blower shroud has been minimally-modified to accomodate V6 heater block and extruder assembly repositioning. Cavities that route air are otherwise largely untouched so as to retain original flow characterisics as much as possible.   
+* Blower mounting flange has been modified to aid in assembly 
 
 Original Lulzbot M175 repo: https://gitlab.com/lulzbot3d/tool-heads/lutefisk
